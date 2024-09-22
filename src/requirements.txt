@@ -1,0 +1,15 @@
+fastapi==0.114.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+numpy==2.1.1
+python-dotenv==1.0.1
+pydantic-settings==2.4.0
+aiofiles==24.1.0
+pandas==2.2.3
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+whisper==1.1.10
+sentence-transformers==3.1.1
+moviepy==1.0.3
+
+
